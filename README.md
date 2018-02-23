@@ -1,1 +1,1 @@
-# Matematyka fajna
+# Matematyka jest fajna.
