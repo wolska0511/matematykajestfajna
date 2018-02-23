@@ -1,1 +1,1 @@
-# matematykafajna
+# Matematyka fajna
