@@ -12,7 +12,9 @@ body {
 }
 
 .CIEKAWOSTKI {
-  background-image: url(https://pixabay.com/photo-3248236/)
+  background-image: url(https://pixabay.com/photo-3248236/800/600);
+  background-size: cover;
+  background-position:center;
 } 
 
 .two {
