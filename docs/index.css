@@ -5,8 +5,8 @@ body {
 .main {
   display: grid;
   grid-gap: 5px;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
   height: 100vh;
   width: 100vw;
 }
@@ -14,7 +14,7 @@ body {
 .NAUKA {
   background-image: url(https://picsum.photos/200/300);
   grid-row: span 1;
-  grid-column: span 2;
+  grid-column: span 1;
 } 
 
 .ZABAWA {
