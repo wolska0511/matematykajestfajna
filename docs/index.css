@@ -32,8 +32,8 @@ body {
 
 .MATEMATYKA {
   background-image: url(https://picsum.photos/200/300/?random);
-  background-size: cover;
-  background-position:center;
+  grid-row: span 2;
+  grid-column: 3 / span 2;
 }
 
 .five {
