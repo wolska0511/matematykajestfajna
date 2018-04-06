@@ -25,8 +25,8 @@ body {
 
 .CIEKAWOSTKI {
   background-image: url(https://picsum.photos/200/300/?gravity=east);
-  background-size: cover;
-  background-position:center;
+ grid-row: span 2;
+  grid-column: 3 / span 2;
   
 }
 
