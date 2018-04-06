@@ -12,7 +12,7 @@ body {
 }
 
 .NAUKA {
-  background-image: url(https://unsplash.com/photos/5EKw8Z7CgE4);
+  background-image: url(https://picsum.photos/200/300);
   background-size: cover;
   background-position:center;
 } 
@@ -24,14 +24,14 @@ body {
 }
 
 .CIEKAWOSTKI {
-  background-image: url(https://picsum.photos/200/300);
+  background-image: url(https://picsum.photos/200/300/?gravity=east);
   background-size: cover;
   background-position:center;
   
 }
 
 .MATEMATYKA {
-  background-image: url(https://picsum.photos/200/300);
+  background-image: url(https://picsum.photos/200/300/?random);
   background-size: cover;
   background-position:center;
 }
