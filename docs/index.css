@@ -12,26 +12,26 @@ body {
 }
 
 .NAUKA {
-  background-image: url(https://picsum.photos/200/300);
+  background-image: url(https://picsum.photos/200/300/?gravity=center);
   grid-row: span 1;
   grid-column: span 1;
 } 
 
 .ZABAWA {
-  background-image: url(https://picsum.photos/200/300?image=0);
+  background-image: url(https://picsum.photos/200/300?image=0/?gravity=center);
   grid-row: span 2;
   grid-column: span 2;
 }
 
 .CIEKAWOSTKI {
-  background-image: url(https://picsum.photos/200/300/?gravity=east);
+  background-image: url(https://picsum.photos/200/300/?gravity=east/?gravity=center);
   grid-row: span 2;
   grid-column: span 2;
   
 }
 
 .MATEMATYKA {
-  background-image: url(https://picsum.photos/200/300/?random);
+  background-image: url(https://picsum.photos/200/300/?random/?gravity=center);
   grid-row: span 1;
   grid-column: span 1;
 }
