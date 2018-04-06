@@ -38,6 +38,8 @@ body {
 
 &.five {
   background-color: #FF0066;
+  grid-row: span 2;
+  grid-column: span 2;
 }
 }
 .main > div {
