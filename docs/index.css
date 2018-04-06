@@ -18,7 +18,7 @@ body {
 } 
 
 .ZABAWA {
-  background-image: url(https://picsum.photos/200/300?image=0);
+  background-image: url(https://unsplash.com/photos/5EKw8Z7CgE4);
   grid-row: span 2;
   grid-column: span 4;
 }
