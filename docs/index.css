@@ -13,32 +13,32 @@ body {
 
 .NAUKA {
   background-image: url(https://picsum.photos/200/300);
-  grid-row: span 1;
-  grid-column: span 1;
+  grid-row: span 3;
+  grid-column: span 3;
 } 
 
 .ZABAWA {
   background-image: url(https://picsum.photos/200/300?image=0);
   grid-row: span 2;
-  grid-column: span 2;
+  grid-column: span 4;
 }
 
 .CIEKAWOSTKI {
   background-image: url(https://picsum.photos/200/300/?gravity=east);
   grid-row: span 2;
-  grid-column: span 2;
+  grid-column: span 3;
   
 }
 
 .MATEMATYKA {
   background-image: url(https://picsum.photos/200/300/?random);
-  grid-row: span 1;
-  grid-column: span 1;
+  grid-row: span 2;
+  grid-column: span 3;
 }
 
 .five {
   background-color: #FF0066;
-  grid-row: span 2;
+  grid-row: span 1;
   grid-column: span 1;
 }
 
