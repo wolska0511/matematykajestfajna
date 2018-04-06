@@ -12,13 +12,15 @@ body {
 }
 
 .CIEKAWOSTKI {
-  background-image: url(https://picsum.photos/g/200/300);
+  background-image: url(https://picsum.photos/200/300/?gravity=east);
   background-size: cover;
   background-position:center;
 } 
 
 .MATEMATYKA {
-  background-color: #CC99FF;
+  background-image: url(https://picsum.photos/200/300?image=0);
+  background-size: cover;
+  background-position:center;
 }
 
 .KONSULTACJE {
