@@ -24,7 +24,10 @@ body {
 }
 
 .KONSULTACJE {
-  background-color: #00ddcc;
+  background-image: url(https://picsum.photos/200/300);
+  background-size: cover;
+  background-position:center;
+  
 }
 
 .four {
