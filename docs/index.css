@@ -27,7 +27,7 @@ background-image: url(https://imageshack.com/a/img631/345/2YVDz2.jpg);
 }
 .five {
 grid-area: 4 / 3 / 5 / 4;
-background-color: #dd0000;
+background-image: url(https://imageshack.com/a/img674/860/n4Nlka.jpg);
 }
 .main > div {
 display: flex;
