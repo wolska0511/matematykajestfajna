@@ -9,6 +9,12 @@ grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
 height: 100vh;
 width: 100vw;
 }
+#link{
+color:black; 
+text-shadow: 2px 2px grey; 
+border: 2px solid gray;
+border-radius: 15px;    
+}
 .one {
 grid-area: 1 / 1 / 4 / 4;
 background-image: url(https://www.stockvault.net/data/2016/04/19/194120/preview16.jpg);
