@@ -24,10 +24,12 @@ background-image: url(https://imageshack.com/a/img538/4434/e13e17.jpg);
 .four {
 grid-area: 5 / 3 / 7 / 6;
 background-image: url(https://imageshack.com/a/img631/345/2YVDz2.jpg);
+
 }
 .five {
 grid-area: 4 / 3 / 5 / 4;
 background-image: url(https://imageshack.com/a/img674/860/n4Nlka.jpg);
+    background-size: cover;
 }
 .main > div {
 display: flex;
