@@ -11,16 +11,16 @@ width: 100vw;
 }
 .one {
 grid-area: 1 / 1 / 4 / 4;
-background-image: url(https://www.stockvault.net/data/2015/11/03/180822/preview16.jpg);
+background-image: url(https://imageshack.com/a/img674/860/n4Nlka.jpg);
       background-size: cover;
 }
 .two {
 grid-area: 1 / 4 / 5 / 6;
-background-image: url();
+background-image: url(https://www.stockvault.net/data/2013/03/11/142746/preview16.jpg);
 }
 .three {
 grid-area: 4 / 1 / 7 / 3;
-background-image: url(https://www.stockvault.net/data/2013/03/11/142746/preview16.jpg);
+background-image: url(https://www.stockvault.net/data/2015/11/03/180822/preview16.jpg);
 }
 .four {
 grid-area: 5 / 3 / 7 / 6;
@@ -29,7 +29,7 @@ background-image: url(https://www.stockvault.net/data/2016/04/19/194120/preview1
 }
 .five {
 grid-area: 4 / 3 / 5 / 4;
-background-image: url(https://imageshack.com/a/img674/860/n4Nlka.jpg);
+background-image: url();
     background-size: cover;
 }
 .main > div {
