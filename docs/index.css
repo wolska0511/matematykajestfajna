@@ -19,7 +19,7 @@ background-color: blue;
 }
 .three {
 grid-area: 4 / 1 / 7 / 3;
-background-color: #dd0000;
+background-image: url(https://imageshack.com/a/img538/4434/e13e17.jpg);
 }
 .four {
 grid-area: 5 / 3 / 7 / 6;
