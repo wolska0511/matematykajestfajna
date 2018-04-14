@@ -24,12 +24,12 @@ background-image: url(https://www.stockvault.net/data/2015/11/03/180822/preview1
 }
 .four {
 grid-area: 5 / 3 / 7 / 6;
-background-image: url();
+background-image: url(https://foter.com/photos/397/number-count-decade-school-slide-rule-mathematics.jpg);
 
 }
 .five {
 grid-area: 4 / 3 / 5 / 4;
-background-image: url(https://foter.com/photos/397/number-count-decade-school-slide-rule-mathematics.jpg);
+background-image: url();
    
 }
 .main > div {
