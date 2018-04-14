@@ -1,59 +1,45 @@
 body {
-  font-size: 1.5em;
+font-size: 1.5em;
 }
-
 .main {
-  display: grid;
-  grid-gap: 5px;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(6, 1fr);
-  height: 100vh;
-  width: 100vw;
+display: grid;
+grid-gap: 5px;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+height: 100vh;
+width: 100vw;
 }
-
-.NAUKA {
-  background-image: url(https://unsplash.com/photos/a4klnzBYNb8);
-  grid-row: span 3;
-  grid-column: span 3;
-} 
-
-.ZABAWA {
-  background-image: url(https://picsum.photos/200);
-  grid-row: span 2;
-  grid-column: span 4;
+.one {
+grid-area: 1 / 1 / 4 / 4;
+background-color: pink;
 }
-
-.CIEKAWOSTKI {
-  background-image: url(https://pl.freeimages.com/photo/balloon-contest-1417733);
-  grid-row: span 2;
-  grid-column: span 3;
-  
+.two {
+grid-area: 1 / 4 / 5 / 6;
+background-color: blue;
 }
-
-.MATEMATYKA {
-  background-image: url(https://picsum.photos/200/300/?random);
-  grid-row: span 2;
-  grid-column: span 3;
+.three {
+grid-area: 4 / 1 / 7 / 3;
+background-color: #dd0000;
 }
-
+.four {
+grid-area: 5 / 3 / 7 / 6;
+background-color: pink;
+}
 .five {
-  background-color: #FF0066;
-  grid-row: span 1;
-  grid-column: span 1;
+grid-area: 4 / 3 / 5 / 4;
+background-color: #dd0000;
 }
-
 .main > div {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
 }
-
 @media screen and (max-width: 600px) {
-  .main {
-    display: block;
-  }
-  .main > div {
-    height: 200px;
-  }
+.main {
+display: block;
+}
+.main > div {
+height: 200px;
+}
 }
