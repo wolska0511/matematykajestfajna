@@ -11,7 +11,7 @@ width: 100vw;
 }
 .one {
 grid-area: 1 / 1 / 4 / 4;
-background-image: url(https://picsum.photos/800/800/?gravity=center);
+background-image: url(https://cdn.pixabay.com/photo/2016/07/28/04/31/math-1547018_960_720.jpg);
 }
 .two {
 grid-area: 1 / 4 / 5 / 6;
