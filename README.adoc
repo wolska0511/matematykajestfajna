@@ -29,3 +29,6 @@ latexmath:[\bigcup_{s=1}^{n} A_s =A_{1}\cup A_{2}\cup \ldots \cup A_{n}]
 
 ## Wykresy
 
+
+image::HporT2x.gif[]
+
