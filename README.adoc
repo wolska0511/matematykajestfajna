@@ -16,3 +16,11 @@ http://gist.asciidoctor.org/?github-AgataBultrowicz%2Fmatematykajestfajna%2F%2FR
 latexmath:[\lim_{x\to\infty} f(x)]
 
 latexmath:[\lim_{n\to\infty} \left(1+\frac{1}{n}\right)^{n}=e]
+
+## Sumy, iloczyny
+
+latexmath:[
+\sum_{n=1}^{k} n
+\sum_{\substack{i > 1 \\ j > i}}
+\prod_{n=0}^{k} n=0
+\bigcup_{s=1}^{n} A_s =A_{1}\cup A_{2}\cup \ldots \cup A_{n}]
