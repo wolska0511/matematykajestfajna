@@ -10,7 +10,7 @@ Tabelka z wzorami z funkcjami.
 | Funkcja	|  Wzór
 | Liniowa	| y=ax+b
 | Kwadratowa | latexmath:[y = ax^{2} + bx + c]
-| Wymierna | latexmath:[\frac{1}{x}[/tex] ]
+| Wymierna | latexmath:[\frac{1}{x}]
 |===
 
 
