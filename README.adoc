@@ -13,4 +13,6 @@ Tabelka z wzorami z funkcjami.
 | Wymierna | latexmath:[\frac{1}{x}]
 |===
 
+## Granice
 
+latexmath:[\lim_{x\to\infty} f(x)]
