@@ -14,3 +14,5 @@ http://gist.asciidoctor.org/?github-AgataBultrowicz%2Fmatematykajestfajna%2F%2FR
 ## Granice
 
 latexmath:[\lim_{x\to\infty} f(x)]
+
+latexmath:[\lim_{n\to\infty} \left(1+\frac{1}{n}\right)^{n}=e]
