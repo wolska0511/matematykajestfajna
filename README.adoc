@@ -5,7 +5,7 @@ http://gist.asciidoctor.org/?github-AgataBultrowicz%2Fmatematykajestfajna%2F%2FR
 ## Funkcje
 
 |===
-| Funkcja	|  Wzór
+| Funkcja	|  Wzór ogólny
 | Liniowa	| y=ax+b
 | Kwadratowa | latexmath:[y = ax^{2} + bx + c]
 | Wymierna | latexmath:[\frac{1}{x}]
