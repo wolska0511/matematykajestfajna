@@ -6,3 +6,8 @@ Funkcje, wykresy.
 
 Tabelka z wzorami z funkcjami.
 
+[stem]
+++++
+sqrt(4) = 2
+++++
+
