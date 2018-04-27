@@ -9,7 +9,7 @@ Tabelka z wzorami z funkcjami.
 |===
 | Funkcja	|  Wzór
 | Liniowa	| y=ax+b
-| Kwadratowa | y=ax^2+bx+c
+| Kwadratowa | latexmath:[y = ax^{2} + bx + c]
 | Wymierna | y=1/x
 |===
 
