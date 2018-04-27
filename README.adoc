@@ -4,8 +4,6 @@ http://gist.asciidoctor.org/?github-AgataBultrowicz%2Fmatematykajestfajna%2F%2FR
 
 ## Funkcje
 
-Tabelka z wzorami z funkcjami.
-
 |===
 | Funkcja	|  Wzór
 | Liniowa	| y=ax+b
